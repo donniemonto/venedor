@@ -1,0 +1,131 @@
+
+body {
+    border-top: 3px solid #44b4c0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top-nav {
+    width: 100%;
+
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    border-left: 3px solid #44b4c0;
+}
+
+.home-link {
+    text-decoration: none;
+}
+
+.middle-nav {
+    width: 100%;
+}
+
+.top-section-card {
+    width: 100%;
+}
+
+.section1-img {
+    background-color: #e1e1e1;
+    text-align: center;
+}
+
+.topsection-btn {
+    text-align: right;
+}
+
+.top-section-header {
+    margin: 20px;
+}
+
+.top-section-text, .top-section-txt {
+    padding-left: 225px;
+}
+
+
+.btn2 {
+    margin-right: 125px;
+    border: none;
+}
+
+.topheader-img {
+    text-align: center;
+    margin: 10px ;
+}
+
+.sale {
+    margin: 0 10px;
+}
+
+.middle-section-text {
+    text-align: middle;
+    width: 40%;
+
+}
+
+.middle-section-img {
+    float: right;
+    margin: 0;
+    padding-bottom: 200px;
+}
+
+.middle-section {
+    height: 500px;
+    padding-left: 125px;
+}
+
+
+
+.man-search, .search-bar {
+    background-color: #d6d6d6;
+    display: flex;
+}
+
+.man-search-text {
+    width: 60%;
+    padding-left: 125px;
+}
+
+.card {
+    padding: 25px;
+}
+
+.man-header {
+    padding-left: 250px;
+}
+
+.man-img {
+    text-align: center;
+    margin: 50px;
+}
+
+.topfooter {
+    padding: 45px 125px;
+    
+}
+
+.services-content {
+}
+
+.bottomfooter {
+    text-align: right;
+}
+
+.footer {
+    background-color: #434b4d;
+}
+
+.account-list {
+    margin: 0 auto;
+}
+
+.sign-up-btn {
+    width: 160px;
+}
